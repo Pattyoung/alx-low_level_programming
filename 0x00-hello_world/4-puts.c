@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - this comment for first
- * return to 0
+ * return - to 0
  */
 int main(void)
 {
