@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-   * main - this mainfuc
-   * Return: this returns 0
-    */
+ * main - this mainfuc
+ * Return: this returns 0
+ */
 
 int main(void)
 {
@@ -11,7 +11,7 @@ int main(void)
 
 	for (p = 0; p < 10; p++)
 	{
-			putchar(p + '0');
+		putchar(p + '0');
 		if (p != 9)
 		{
 			putchar(',');
