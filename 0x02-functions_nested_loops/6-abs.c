@@ -2,8 +2,8 @@
 
 /**
  * _abs - main func
- * @a: int value
- * Returns: this returns i
+ * @i: int value
+ * Return: this returns i
  */
 
 int _abs(int i)
@@ -12,5 +12,5 @@ int _abs(int i)
 		i = -(i);
 	else if (i >= 0)
 		i = i;
-	return(i);
+	return (i);
 }
