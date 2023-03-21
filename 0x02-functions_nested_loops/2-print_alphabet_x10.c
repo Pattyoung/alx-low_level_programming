@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - this mainfuc
+ * print_alphabet_x10 - this myfuc
  * Return: this returns 0
  */
 
