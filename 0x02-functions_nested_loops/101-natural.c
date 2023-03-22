@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *
- *
+ * main - mainfunct
+ * Return: Alwys 0
  */
 
 int main(void)
