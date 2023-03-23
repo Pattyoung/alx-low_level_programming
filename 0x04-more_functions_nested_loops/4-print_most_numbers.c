@@ -5,10 +5,10 @@
  *
  * Return: aln 0 or 9
  */
-
 void print_most_numbers(void)
 {
-	int x = 0;
+	int c;
+
 	for (c = 48; c < 58; c++)
 	{
 	if (c != 50)
